@@ -4,7 +4,7 @@ import ReactDOM from "react-dom"
 var sample = (
    <div>
         <h2>HEADING</h2>
-        <p>HELLO MR JAMRES</p>
+        <P>HELLO MR JAMRES</P>
         <ul>
             <li>1</li>
             <li>2</li>
